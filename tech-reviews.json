@@ -1,44 +1,82 @@
 {
   "vi": [
     {
-      "slug": "macbook-air-m3-review",
-      "title": "Macbook Air M3 - Chiếc Laptop Hoàn Hảo Cho Digital Nomad?",
-      "description": "Đánh giá chi tiết hiệu năng và tính di động của Macbook Air M3 trong môi trường làm việc thực tế tại các quán cafe.",
-      "date": "2026-03-15",
-      "image": "/hero-bg-5.jpeg",
+      "slug": "review-ban-phim-keychron-q1-ultra-8k-moi-nhat-2026",
+      "title": "Review Keychron Q1 Ultra 8K: Bàn Phím Cơ Wireless 75% Full Metal “Endgame” Với 660 Giờ Pin Và 8K Polling Rate",
+      "description": "Keychron Q1 Ultra 8K – bàn phím cơ mới nhất 2026 với khung nhôm CNC, switch Silk POM mượt mà, pin lên đến 660 giờ, 8K polling rate không dây. Trải nghiệm gõ thocky thực tế từ một digital nomad dùng Mac hàng ngày.",
+      "date": "2026-03-25",
+      "image": "/images/reviews/keychron-q1-ultra-8k.jpg",
       "category": "Gear",
-      "pros": ["Siêu nhẹ", "Pin cực trâu", "Hiệu năng mạnh mẽ"],
-      "cons": ["Giá còn cao", "Cạnh hơi sắc"],
+      "content": "## Keychron Q1 Ultra 8K: Bàn phím cơ mà tôi đang dùng hàng ngày trên MacBook Pro\n\nTôi là một digital nomad, làm việc chủ yếu trên **MacBook Pro** tại các quán cà phê ở Sài Gòn hay khi bay giữa các thành phố. Bàn phím cơ không chỉ là công cụ gõ chữ mà còn là “người bạn đồng hành” giúp tôi duy trì năng suất suốt 8-10 giờ mỗi ngày. Và sau khi dùng **Keychron Q1 Ultra 8K** (phiên bản 75% full metal) được vài tuần, tôi phải nói: đây là một trong những bàn phím tốt nhất mà Keychron từng ra mắt tính đến năm 2026.\n\nRa mắt tại CES 2026 cùng series Q Ultra, Q1 Ultra 8K nổi bật với **ZMK firmware** lần đầu tiên được sản xuất hàng loạt, cho phép **8K polling rate** không dây cùng thời lượng pin “khủng” lên đến **660 giờ** (backlight tắt). Tôi đã mang nó đi cà phê, làm việc tại co-working space và thậm chí trên máy bay – và nó chưa từng làm tôi thất vọng.\n\n## Thiết kế & Build Quality: Nặng ký nhưng đáng giá từng gram\n\n**Keychron Q1 Ultra 8K** nặng khoảng **1.724g** – bạn sẽ cảm nhận rõ sự chắc chắn ngay khi cầm lên. Toàn bộ thân máy được gia công từ **nhôm CNC**, mặt đáy cũng là nhôm, kết hợp **double-gasket mount** và nhiều lớp foam âm thanh (IXPE, PET film, latex pad, bottom case foam). Kết quả? Một bàn phím gần như không rung, không flex, và âm thanh cực kỳ cân bằng.\n\n> “Mỗi lần gõ là một cảm giác chắc chắn, không hề lỏng lẻo như những bàn phím nhựa giá rẻ.”\n\nThiết kế 75% rất hợp lý cho nomad: gọn hơn full-size nhưng vẫn giữ đủ phím mũi tên và một số phím chức năng. Có núm xoay kim loại đẹp mắt (volume + media control), chân đế cao su chống trượt, và góc nghiêng 5.3° thoải mái cho cổ tay. Phiên bản tôi dùng là màu đen, trông rất sang trọng trên bàn làm việc gỗ hoặc da.\n\nKeycaps là **KSA double-shot PBT** dày dặn, chống bóng dầu tốt, có cả bộ Mac layout (Command, Option) và Windows. South-facing RGB đẹp nhưng không quá chói, hỗ trợ per-key và Mix RGB.\n\n## Cảm giác gõ thực tế: Silk POM switches – mượt mà và “thocky” đúng nghĩa\n\nKeychron trang bị **Silk POM switches** mới – toàn bộ housing và stem làm từ POM (polyoxymethylene) cao cấp, pre-lubed sẵn. Tôi chọn bản **Banana** (tactile) và thực sự ấn tượng:\n\n- **Actuation force** khoảng 45-55g (tùy variant), travel ~4mm.\n- Banana có tactile bump sắc nét hơn ở đầu hành trình, cho cảm giác **punchy** và responsive hơn brown thông thường.\n- Red linear thì siêu mượt, phù hợp gaming hoặc gõ dài.\n\nÂm thanh là điểm cộng lớn: **thocky sâu**, không ping, không hollow nhờ gasket + foam dày. Khi gõ nhanh, không hề có cảm giác lag dù đang dùng **2.4GHz 8K polling**. Trên Mac, độ trễ gần như bằng wired – tôi test typing test và không thấy khác biệt rõ rệt so với bàn phím có dây.\n\nLà người gõ touch-typing nhiều, tôi đánh giá cao screw-in stabilizers: Spacebar, Shift, Enter cực kỳ ổn định, không rung hay lỏng lẻo. Hot-swappable (3/5-pin) nên bạn có thể thay switch dễ dàng nếu muốn thử vibe khác.\n\n## Hiệu năng & Kết nối: 8K wireless thực sự đáng tin\n\nĐây là điểm “wow” nhất của Q1 Ultra 8K:\n\n- **Triple mode**: 2.4GHz (8K polling), Bluetooth 5.3 (kết nối 3 thiết bị), Wired USB-C (8K).\n- **Pin 4000mAh**: 660 giờ backlight tắt (khoảng 4 tháng nếu dùng 5h/ngày), ~200 giờ với RGB thấp. Thực tế tôi dùng RGB trung bình, pin vẫn trụ được hơn 2 tuần mà chưa cần sạc.\n- ZMK open-source firmware + Keychron Launcher (web-based) cho phép customize mọi thứ: remap key, macro, RGB, thậm chí chỉnh polling rate.\n\nTôi chuyển giữa MacBook (Bluetooth) và iPad mini khi di chuyển cực kỳ mượt. Không hề drop connection dù ngồi cách router 5-6m.\n\n## Ưu nhược điểm sau vài tuần sử dụng thực tế\n\n**Ưu điểm:**\n- Build quality xuất sắc, cảm giác premium.\n- Pin “khủng” và 8K wireless thực sự hữu ích cho gamer + productivity.\n- Âm thanh và cảm giác gõ thocky, dễ chịu lâu dài.\n- Tương thích hoàn hảo Mac/Windows/Linux, có layout Mac sẵn.\n- Hot-swap + customize dễ dàng qua Launcher.\n\n**Nhược điểm:**\n- Nặng (1.7kg) nên không phải lựa chọn lý tưởng nếu bạn hay di chuyển bằng balo mỏng.\n- Một số ý kiến cho rằng switch Silk POM ban đầu có thể hơi scratchy hoặc spacebar quiet hơn (tôi không gặp sau khi break-in).\n- Giá ~$230 không phải rẻ, nhưng đáng tiền nếu bạn muốn “endgame” keyboard.\n\n## Lời kết: Có nên mua Keychron Q1 Ultra 8K không?\n\nNếu bạn là **digital nomad**, content creator hoặc lập trình viên dùng Mac và muốn một bàn phím cơ cao cấp, gọn gàng nhưng không hy sinh trải nghiệm gõ – **Keychron Q1 Ultra 8K** là lựa chọn cực kỳ đáng cân nhắc. Nó không chỉ là bàn phím, mà là công cụ giúp bạn tập trung và tận hưởng từng cú gõ.\n\nĐối với gamer cần tốc độ cực cao hoặc người muốn build tùy chỉnh sâu, đây cũng là nền tảng tuyệt vời nhờ hot-swap và firmware mở.\n\nTóm lại, sau khi thử rất nhiều bàn phím Keychron từ K-series đến Q Max, Q1 Ultra 8K là bước tiến rõ rệt nhất. Nếu ngân sách cho phép, tôi khuyên bạn nên thử – đặc biệt bản Banana tactile nếu bạn thích cảm giác feedback rõ ràng.\n\nBạn đang dùng bàn phím nào? Comment bên dưới chia sẻ trải nghiệm nhé!\n\n*(Bài viết dựa trên trải nghiệm thực tế hơn 3 tuần sử dụng hàng ngày. Giá tham khảo tại keychron.com: từ $229.99)*",
+      "pros": [
+        "Build full nhôm CNC chắc chắn, trọng lượng cao tạo cảm giác premium",
+        "Pin lên đến 660 giờ + 8K polling rate không dây thực sự",
+        "Switch Silk POM mượt mà, âm thanh thocky sâu nhờ gasket + foam",
+        "Tương thích hoàn hảo Mac, hot-swap dễ customize",
+        "Núm xoay tiện lợi, Keychron Launcher web-based thân thiện"
+      ],
+      "cons": [
+        "Trọng lượng nặng (~1.7kg) không lý tưởng cho di chuyển thường xuyên",
+        "Giá cao so với các model Keychron thông thường",
+        "Một số switch Silk POM có thể cần break-in để đạt âm thanh tối ưu"
+      ],
       "specs": {
-        "cpu": "Apple M3",
-        "ram": "16GB",
-        "ssd": "512GB"
+        "Layout": "75% (82 keys)",
+        "Case": "CNC Aluminum full metal",
+        "Mount": "Double Gasket",
+        "Switch": "Keychron Silk POM (Red Linear / Brown / Banana Tactile)",
+        "Keycaps": "KSA Double-shot PBT",
+        "Connectivity": "2.4GHz (8K), Bluetooth 5.3 (3 devices), Wired USB-C (8K)",
+        "Battery": "4000mAh, lên đến 660 giờ (backlight off)",
+        "Polling Rate": "8000Hz (wireless & wired)",
+        "Weight": "1724g ±10g",
+        "Hot-swappable": "Yes (3/5-pin)",
+        "Firmware": "ZMK open-source"
       },
-      "performanceTitle": "Hiệu Năng Vượt Trội",
-      "performanceBody": "Trong quá trình làm việc hàng ngày, chiếc Macbook Air M3 đã chứng minh được giá trị của mình thông qua khả năng xử lý mượt mà các tác vụ nặng như lập trình, chỉnh sửa ảnh và quản lý nhiều ứng dụng cùng lúc.",
-      "consensusTitle": "Kết Luận",
-      "consensusBody": "Nếu bạn là một lập trình viên hoặc một người làm việc tự do thường xuyên di chuyển, đây là một lựa chọn đáng để cân nhắc đầu tư cho công việc của mình."
+      "performanceTitle": "Hiệu năng thực tế khi dùng hàng ngày",
+      "performanceBody": "Với 8K polling rate không dây, độ trễ gần như bằng 0 – tôi gõ code, viết bài hay chơi game nhẹ trên Mac đều mượt mà. Pin thực tế trụ tốt hơn 2 tuần với RGB trung bình. Âm thanh và cảm giác gõ giúp giảm mỏi tay khi làm việc dài.",
+      "consensusTitle": "Lời kết từ một digital nomad",
+      "consensusBody": "Keychron Q1 Ultra 8K là bàn phím cơ wireless cao cấp nhất mà tôi từng dùng. Nếu bạn sẵn sàng chi tiền cho chất lượng build, trải nghiệm gõ và thời lượng pin ‘khủng’, đây chính là lựa chọn đáng mua năm 2026. 9/10 điểm – gần như endgame cho người dùng Mac và nomad."
     }
   ],
   "en": [
     {
-      "slug": "macbook-air-m3-review",
-      "title": "Macbook Air M3 - Perfection for Digital Nomads?",
-      "description": "In-depth performance and portability review of the Macbook Air M3 in a real cafe workflow.",
-      "date": "2026-03-15",
-      "image": "/hero-bg-5.jpeg",
+      "slug": "keychron-q1-ultra-8k-review-2026",
+      "title": "Keychron Q1 Ultra 8K Review: The Ultimate 75% Full-Metal Wireless Mechanical Keyboard with 660-Hour Battery & True 8K Polling",
+      "description": "In-depth real-world review of the latest Keychron Q1 Ultra 8K 2026. Full aluminum build, Silk POM switches, insane 660-hour battery, 8K wireless polling – perfect for Mac users and digital nomads.",
+      "date": "2026-03-25",
+      "image": "/images/reviews/keychron-q1-ultra-8k.jpg",
       "category": "Gear",
-      "pros": ["Super light", "Insane battery", "Powerful performance"],
-      "cons": ["Still pricey", "Sharp edges"],
+      "content": "## Keychron Q1 Ultra 8K: My Daily Driver Mechanical Keyboard on MacBook Pro\n\nAs a digital nomad who spends most of my time on a **MacBook Pro** working from cafés in Ho Chi Minh City or while traveling, a great mechanical keyboard is more than a tool — it’s a productivity companion. After using the **Keychron Q1 Ultra 8K** (75% full-metal version) for several weeks in 2026, I can confidently say it’s one of the best keyboards Keychron has ever released.\n\nLaunched at CES 2026 as part of the Q Ultra series, the Q1 Ultra 8K stands out with **ZMK firmware** — the first mass-produced implementation — delivering **8K polling rate wirelessly** and up to **660 hours** of battery life (backlight off). I’ve taken it to cafés, co-working spaces, and even on flights, and it has never let me down.\n\n## Design & Build Quality: Heavy but Worth Every Gram\n\nThe **Keychron Q1 Ultra 8K** weighs about **1,724g**. You feel the solidity the moment you pick it up. The entire chassis is CNC-machined **aluminum**, including the bottom case, paired with a **double-gasket mount** and multiple layers of acoustic foam (IXPE, PET film, latex pad, bottom case foam). The result is virtually zero flex, no rattle, and beautifully balanced acoustics.\n\n> “Every keystroke feels intentional and rock-solid — nothing like the wobbly plastic boards.”\n\nThe 75% layout is perfect for nomads: more compact than full-size yet retains arrow keys and essential functions. It features a stylish metal knob for volume/media, non-slip rubber feet, and a comfortable 5.3° typing angle. I’m using the black version — it looks premium on both wooden and leather desks.\n\nKeycaps are thick **KSA double-shot PBT** that resist shine and come with both Mac and Windows sets. South-facing RGB is vibrant but not overwhelming, with per-key and Mix RGB support.\n\n## Real-World Typing Feel: Silk POM Switches Deliver Thocky Bliss\n\nKeychron equips the Q1 Ultra with brand-new **Silk POM switches** — housing and stem made entirely from high-grade POM (polyoxymethylene), factory pre-lubed. I tested the **Banana** tactile variant and was impressed:\n\n- Actuation force around 45-55g, ~4mm travel.\n- Banana offers a sharper, earlier tactile bump for a **punchier** and more responsive feel than traditional browns.\n- Red linear is buttery smooth — ideal for long typing sessions or gaming.\n\nSound profile is a highlight: deep **thocky** tone with no ping or hollowness thanks to the gasket mount and generous foam. Fast typing shows zero perceptible lag even on **2.4GHz at 8K polling**. On Mac, it feels as responsive as a wired board.\n\nScrew-in PCB stabilizers keep big keys (Spacebar, Shift, Enter) extremely stable. The board is fully hot-swappable (3/5-pin), making customization effortless.\n\n## Performance & Connectivity: True Wireless 8K Done Right\n\nThis is where the Q1 Ultra 8K shines brightest:\n\n- **Triple connectivity**: 2.4GHz (8K polling), Bluetooth 5.3 (up to 3 devices), Wired USB-C (8K).\n- **4000mAh battery**: Up to 660 hours without backlight (~4 months at 5h/day), ~200 hours with low RGB. In real use with moderate RGB, it lasts over two weeks between charges.\n- ZMK open-source firmware + web-based **Keychron Launcher** lets you remap keys, create macros, adjust RGB, and tweak polling — all without downloading software.\n\nSwitching between my MacBook (Bluetooth) and iPad is seamless. No dropped connections even several meters from the router.\n\n## Pros & Cons After Real-World Use\n\n**Pros:**\n- Exceptional full-aluminum CNC build with premium heft.\n- Class-leading 660-hour battery and true 8K wireless polling.\n- Satisfying thocky sound and comfortable typing feel thanks to gasket + foams.\n- Perfect Mac compatibility with native layout, easy hot-swap customization.\n- Convenient metal knob and browser-based Launcher.\n\n**Cons:**\n- Heavy weight (~1.7kg) makes it less ideal for ultra-portable travel in slim backpacks.\n- Price (~$230) is premium — not for budget buyers.\n- Some early users noted Silk POM switches may need break-in for optimal sound (spacebar can sound slightly quieter).\n\n## Final Verdict: Should You Buy the Keychron Q1 Ultra 8K?\n\nIf you’re a **digital nomad**, writer, developer, or Mac user looking for a premium, compact mechanical keyboard that doesn’t compromise on build quality, typing enjoyment, or battery life — the **Keychron Q1 Ultra 8K** is an outstanding choice. It’s not just a keyboard; it’s a tool that makes long work sessions more enjoyable.\n\nGamers needing ultra-low latency or enthusiasts who love deep customization will also appreciate the hot-swap sockets and open firmware.\n\nAfter trying many Keychron models from K-series to Q Max, the Q1 Ultra 8K represents the clearest upgrade yet. If your budget allows, go for it — especially the Banana tactile if you enjoy clear feedback.\n\nWhat keyboard are you daily-driving right now? Drop a comment and share your thoughts!\n\n*(Review based on 3+ weeks of daily real-world use. Pricing starts at $229.99 on keychron.com)*",
+      "pros": [
+        "Premium full CNC aluminum build with substantial weight",
+        "Insane 660-hour battery life and true 8K wireless polling",
+        "Thocky sound profile and silky Silk POM switches",
+        "Excellent Mac compatibility and hot-swap flexibility",
+        "Convenient knob + easy web-based Keychron Launcher"
+      ],
+      "cons": [
+        "Heavy (~1.7kg) for frequent ultra-portable travel",
+        "Premium pricing (~$230)",
+        "Silk POM switches may require break-in for best acoustics"
+      ],
       "specs": {
-        "cpu": "Apple M3",
-        "ram": "16GB",
-        "ssd": "512GB"
+        "Layout": "75% (82 keys)",
+        "Case": "CNC Aluminum full metal",
+        "Mount": "Double Gasket",
+        "Switch": "Keychron Silk POM (Red Linear / Brown / Banana Tactile)",
+        "Keycaps": "KSA Double-shot PBT",
+        "Connectivity": "2.4GHz (8K), Bluetooth 5.3 (3 devices), Wired USB-C (8K)",
+        "Battery": "4000mAh, up to 660 hours (backlight off)",
+        "Polling Rate": "8000Hz (wireless & wired)",
+        "Weight": "1724g ±10g",
+        "Hot-swappable": "Yes (3/5-pin)",
+        "Firmware": "ZMK open-source"
       },
-      "performanceTitle": "Intelligence Performance",
-      "performanceBody": "In daily workflows, the Macbook Air M3 proves its value through smooth handling of heavy tasks like coding, photo editing, and multitasking with numerous apps.",
-      "consensusTitle": "Final Consensus",
-      "consensusBody": "If you are a developer or a freelancer who travels frequently, this is a worthy investment for your mobile office."
+      "performanceTitle": "Real-World Performance",
+      "performanceBody": "8K polling delivers near-zero latency wirelessly — perfect for coding, writing, and light gaming on Mac. Battery easily lasts over two weeks with moderate RGB. The gasket mount and foams reduce fatigue during long sessions.",
+      "consensusTitle": "Final Verdict from a Digital Nomad",
+      "consensusBody": "The Keychron Q1 Ultra 8K is the most refined wireless mechanical keyboard I’ve used. If you value build quality, typing feel, and epic battery life, it’s a worthy investment in 2026. 9/10 — very close to endgame for Mac users and nomads."
     }
   ]
 }
