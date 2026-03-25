@@ -1,0 +1,44 @@
+{
+  "vi": [
+    {
+      "slug": "macbook-air-m3-review",
+      "title": "Macbook Air M3 - Chiếc Laptop Hoàn Hảo Cho Digital Nomad?",
+      "description": "Đánh giá chi tiết hiệu năng và tính di động của Macbook Air M3 trong môi trường làm việc thực tế tại các quán cafe.",
+      "date": "2026-03-15",
+      "image": "/hero-bg-5.jpeg",
+      "category": "Gear",
+      "pros": ["Siêu nhẹ", "Pin cực trâu", "Hiệu năng mạnh mẽ"],
+      "cons": ["Giá còn cao", "Cạnh hơi sắc"],
+      "specs": {
+        "cpu": "Apple M3",
+        "ram": "16GB",
+        "ssd": "512GB"
+      },
+      "performanceTitle": "Hiệu Năng Vượt Trội",
+      "performanceBody": "Trong quá trình làm việc hàng ngày, chiếc Macbook Air M3 đã chứng minh được giá trị của mình thông qua khả năng xử lý mượt mà các tác vụ nặng như lập trình, chỉnh sửa ảnh và quản lý nhiều ứng dụng cùng lúc.",
+      "consensusTitle": "Kết Luận",
+      "consensusBody": "Nếu bạn là một lập trình viên hoặc một người làm việc tự do thường xuyên di chuyển, đây là một lựa chọn đáng để cân nhắc đầu tư cho công việc của mình."
+    }
+  ],
+  "en": [
+    {
+      "slug": "macbook-air-m3-review",
+      "title": "Macbook Air M3 - Perfection for Digital Nomads?",
+      "description": "In-depth performance and portability review of the Macbook Air M3 in a real cafe workflow.",
+      "date": "2026-03-15",
+      "image": "/hero-bg-5.jpeg",
+      "category": "Gear",
+      "pros": ["Super light", "Insane battery", "Powerful performance"],
+      "cons": ["Still pricey", "Sharp edges"],
+      "specs": {
+        "cpu": "Apple M3",
+        "ram": "16GB",
+        "ssd": "512GB"
+      },
+      "performanceTitle": "Intelligence Performance",
+      "performanceBody": "In daily workflows, the Macbook Air M3 proves its value through smooth handling of heavy tasks like coding, photo editing, and multitasking with numerous apps.",
+      "consensusTitle": "Final Consensus",
+      "consensusBody": "If you are a developer or a freelancer who travels frequently, this is a worthy investment for your mobile office."
+    }
+  ]
+}

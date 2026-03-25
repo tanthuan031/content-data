@@ -1,0 +1,44 @@
+{
+  "vi": [
+    {
+      "slug": "da-lat-work-friendly-guide",
+      "title": "Đà Lạt: Cẩm Nang Làm Việc Từ Xa & 5 Quán Cafe Có Wifi Ổn Định",
+      "description": "Khám phá những góc làm việc yên tĩnh và lãng mạn tại Đà Lạt cho dân công nghệ.",
+      "date": "2026-03-10",
+      "image": "/hero-bg-4.jpeg",
+      "location": "Đà Lạt, Việt Nam",
+      "workScore": {
+        "wifi": 9,
+        "power": 8,
+        "noise": 7
+      },
+      "guideTitle": "Làm việc từ xa tại Đà Lạt",
+      "guideBody": "Đà Lạt đang trở thành một trong những điểm đến hàng đầu cho cộng đồng Digital Nomad tại Việt Nam nhờ vào chi phí sinh hoạt hợp lý và môi trường làm việc đầy cảm hứng.",
+      "tipsTitle": "Mẹo cho Tech Nomad",
+      "tipsBody": "Luôn mang theo ổ cắm nối dài và cục phát wifi di động dự phòng khi làm việc tại các quán cafe nhỏ ở đây. Tín hiệu có thể biến động tùy theo vị trí ngồi.",
+      "consensusTitle": "Tổng Kết",
+      "consensusBody": "Nếu bạn đang tìm kiếm một nơi để vừa đi du lịch vừa hoàn thành công việc hiệu quả, Đà Lạt chắc chắn sẽ không làm bạn thất vọng."
+    }
+  ],
+  "en": [
+    {
+      "slug": "da-lat-work-friendly-guide",
+      "title": "Da Lat: Remote Work Guide & 5 Work-Friendly Cafes",
+      "description": "Exploring quiet and romantic workspaces in Da Lat for tech workers.",
+      "date": "2026-03-10",
+      "image": "/hero-bg-4.jpeg",
+      "location": "Da Lat, Vietnam",
+      "workScore": {
+        "wifi": 9,
+        "power": 8,
+        "noise": 7
+      },
+      "guideTitle": "Remote Work in Da Lat",
+      "guideBody": "Da Lat is becoming a top destination for the Digital Nomad community in Vietnam due to its affordable cost of living and inspiring work environments.",
+      "tipsTitle": "Tech Nomad Tip",
+      "tipsBody": "Always bring a power strip and a backup mobile hotspot when working from small cafes here. Signal strength can vary depending on where you sit.",
+      "consensusTitle": "The Consensus",
+      "consensusBody": "If you're looking for a place to balance travel and productive work, Da Lat certainly won't disappoint."
+    }
+  ]
+}
